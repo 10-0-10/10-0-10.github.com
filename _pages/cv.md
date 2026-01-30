@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Immoklee Techical Collge, 2027 (expected)
+* Immoklee Techical College, 2027 (expected)
 * Palmetto Ridge High School, 2025
 
 Work experience
